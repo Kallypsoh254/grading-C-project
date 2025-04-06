@@ -1,0 +1,21 @@
+ID,Name,Admission_Number,English,Kiswahili,Science,Maths,Social_Studies
+1,John Doe,ADM001,85,78,90,88,76
+2,Jane Smith,ADM002,92,81,85,89,90
+3,Michael Johnson,ADM003,75,80,70,85,90
+4,Emily Davis,ADM004,88,79,85,92,87
+5,David Wilson,ADM005,95,94,96,91,93
+6,Sophia Martinez,ADM006,67,72,78,65,70
+7,James Brown,ADM007,80,85,82,87,84
+8,Olivia Taylor,ADM008,90,92,88,94,91
+9,William Anderson,ADM009,76,74,79,83,78
+10,Emma Thomas,ADM010,85,89,90,88,86
+11,Lucas White,ADM011,72,68,74,70,76
+12,Ava Harris,ADM012,95,98,97,99,96
+13,Henry Clark,ADM013,88,84,86,85,82
+14,Mia Rodriguez,ADM014,79,83,80,77,81
+15,Alexander Lewis,ADM015,90,91,89,92,94
+16,Isabella Walker,ADM016,65,70,68,72,66
+17,Benjamin Hall,ADM017,81,85,82,87,84
+18,Charlotte Allen,ADM018,88,89,90,92,91
+19,Daniel Young,ADM019,74,78,76,79,75
+20,Amelia King,ADM020,91,93,92,90,94
